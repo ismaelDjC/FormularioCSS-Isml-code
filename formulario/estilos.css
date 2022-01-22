@@ -1,0 +1,16 @@
+.main-section{
+	margin: 0 auto;
+    margin-top: 2%;
+    padding: 0;
+}
+
+.todo{
+    background-color:#213D59;
+}
+.imagen{
+    background-color:#5399DF;
+    
+}
+.linea{
+    background-color:#fa0238; 
+}
